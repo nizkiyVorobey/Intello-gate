@@ -1,2 +1,2 @@
-This project was bootstrapped with [Create React App](https://nizkiyvorobey.github.io/Intello-gate).
+[view demo](https://nizkiyvorobey.github.io/Intello-gate)
 
