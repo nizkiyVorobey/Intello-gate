@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Intello-gate/static/css/main.96961807.chunk.css",
+    "main.js": "/Intello-gate/static/js/main.32167e7f.chunk.js",
+    "main.js.map": "/Intello-gate/static/js/main.32167e7f.chunk.js.map",
+    "runtime-main.js": "/Intello-gate/static/js/runtime-main.8330a1c6.js",
+    "runtime-main.js.map": "/Intello-gate/static/js/runtime-main.8330a1c6.js.map",
+    "static/css/2.5a510433.chunk.css": "/Intello-gate/static/css/2.5a510433.chunk.css",
+    "static/js/2.411fcdd6.chunk.js": "/Intello-gate/static/js/2.411fcdd6.chunk.js",
+    "static/js/2.411fcdd6.chunk.js.map": "/Intello-gate/static/js/2.411fcdd6.chunk.js.map",
+    "index.html": "/Intello-gate/index.html",
+    "precache-manifest.18d19ac62fad01623e26f8990832019c.js": "/Intello-gate/precache-manifest.18d19ac62fad01623e26f8990832019c.js",
+    "service-worker.js": "/Intello-gate/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/Intello-gate/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.96961807.chunk.css.map": "/Intello-gate/static/css/main.96961807.chunk.css.map",
+    "static/js/2.411fcdd6.chunk.js.LICENSE.txt": "/Intello-gate/static/js/2.411fcdd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8330a1c6.js",
+    "static/css/2.5a510433.chunk.css",
+    "static/js/2.411fcdd6.chunk.js",
+    "static/css/main.96961807.chunk.css",
+    "static/js/main.32167e7f.chunk.js"
+  ]
+}
